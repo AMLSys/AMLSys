@@ -1,14 +1,16 @@
 ### AML Software & Other
+<!--
 
------
 
 <div id="header" align="center">
   <img src="banner.gif" height="150"/>
 </div>
 
 <h1 align="center">Just a big fan of comics</h1>
+-->
 
 <!-- Marvel (Comics) -->
+<!--
 <div id="badges" align="center">
   <a href="https://marvel.fandom.com/wiki/Marvel_Database">
     <img src="https://img.shields.io/badge/-Marvel-%20?style=for-the-badge&color=ff0000" alt="Marvel"/>
@@ -20,8 +22,9 @@
    <img src="https://img.shields.io/badge/GhostRider-%20?style=for-the-badge&color=orange" alt="Ghost rider"/>
   </a>
 </div>
-
+-->
 <!-- DC Comics -->
+<!--
 <div id="badges" align="center">
   <a href="https://dc.fandom.com/wiki/DC_Comics_Database">
     <img src="https://img.shields.io/badge/DC-%20?style=for-the-badge&color=grey" alt="DC"/>
@@ -33,13 +36,14 @@
     <img src="https://img.shields.io/badge/Flash-%20?style=for-the-badge&color=AB0020" alt="Flash"/>
   </a>
 </div>
-
+-->
 <!-- Profile views -->
+<!--
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=po79tvx&style=for-the-badge"/>
 </div>
+-->
 
------
 ### :hammer_and_wrench: Languages and Tools :
 -----
 <div>
