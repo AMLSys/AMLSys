@@ -1,8 +1,9 @@
 <h1 align="center">AML Software & Other</h1>
-
+<!--
 <div id="header" align="center">
   <img src="banner.gif" height="150"/>
 </div>
+-->
 <!--
 <h1 align="center">Just a big fan of comics</h1>
 -->
@@ -43,8 +44,9 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
+
 -----
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg" title=".NET" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" width="45" height="45"/>&nbsp;
